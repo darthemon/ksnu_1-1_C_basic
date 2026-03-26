@@ -58,3 +58,17 @@ void	TwoD() {
 	printf("%d divided by %d is %d.\n", num1, num2, result);
 	return;
 }
+
+void	TwoB() {
+	int	num1;
+	int	num2;
+	int	result;
+	int	result2;
+	int	result3;
+
+	num1 = 10;
+	num2 = 12;
+	result = (num1 == 10 && num2 == 12);
+	result2 = (num1 < 12 || num2 > 10);
+	return;
+}

@@ -1,1 +1,7 @@
+/Debug/
+x64/
+*vcxproj*
+*.tlog
+*.obj
+*.pdb
 .vs/

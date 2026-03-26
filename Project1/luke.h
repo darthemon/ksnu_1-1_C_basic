@@ -3,3 +3,8 @@ void	TwoF();
 void	TwoS();
 void	TwoM();
 void	TwoD();
+void	scanaef(void);
+void	printBase(void);
+void	loopTest(void);
+void	loopDoubleTest(void);
+void	bitTest(void);
