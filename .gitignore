@@ -5,3 +5,5 @@ x64/
 *.obj
 *.pdb
 .vs/
+*.swp
+token.exe
