@@ -23,3 +23,8 @@ void	gugudan_v2(void);
 void	gugudan_v3(void);
 void	dogudan(void);
 void	homework(void);
+
+void	sumAndNum(int num);
+void	numNumSum(int a, int b);
+void	numAverage(int a, int b);
+void	factorial(int num);
