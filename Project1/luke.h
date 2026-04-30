@@ -28,3 +28,8 @@ void	sumAndNum(int num);
 void	numNumSum(int a, int b);
 void	numAverage(int a, int b);
 void	factorial(int num);
+
+double	calc(double num1, char op, double num2);
+void	cCalc(void);
+void	triCalc(void);
+void	ifCalc(void);

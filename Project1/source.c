@@ -9,12 +9,10 @@ void    key(int* a, int* b) {
 }
 
 int main(void) {
-    int a;
-	int b;
-    //key(&a, &b);
-
-    factorial(5);
-
+    printf("======= [If] =======\n");
+	ifCalc();
+    printf("\n\n======= [Tri] =======\n");
+    triCalc();
     return(0);
 }
 
