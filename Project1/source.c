@@ -9,10 +9,8 @@ void    key(int* a, int* b) {
 }
 
 int main(void) {
-    printf("======= [If] =======\n");
-	ifCalc();
-    printf("\n\n======= [Tri] =======\n");
-    triCalc();
+
+    swm();
     return(0);
 }
 

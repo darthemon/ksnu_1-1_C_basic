@@ -33,3 +33,10 @@ double	calc(double num1, char op, double num2);
 void	cCalc(void);
 void	triCalc(void);
 void	ifCalc(void);
+
+void	continued(void);
+void	breaked(void);
+void	findNum(void);
+void	reverseNum(void);
+
+void	swm(void);
